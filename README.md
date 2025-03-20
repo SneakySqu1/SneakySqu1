@@ -1,10 +1,15 @@
 ## Hi there 👋
+Hello 💌
+This is my own repository. I want to learn GitHub so that I can animate mathematics. I expect this to be quite hard but I will try my best to learn.
+I did take "Programming for Math" at UCSC in which we used github, but much of the code was provided to us. Now, I want to teach everything to myself.
+Wish me luck
+-Gavin "SneakySqu1" Moss
 
 <!--
 **SneakySqu1/SneakySqu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
